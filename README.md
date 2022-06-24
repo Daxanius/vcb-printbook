@@ -1,6 +1,6 @@
 # VCB Printbook
 Daxanius' Official VCB book of blueprints
 
-# Content
+## Content
 
-1. [Arithmetics](./arithmetics)
+1. [Arithmetics](./arithmetics/arithmetics.md)
