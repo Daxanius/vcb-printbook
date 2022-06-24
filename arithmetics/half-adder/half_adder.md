@@ -7,4 +7,4 @@ Half adders are commonly used to create full adders
 ## Blueprint
 
 [Blueprint Hash](./half_adder.vcb)
-![Half Adder](./half_adder.png)
+[Half Adder](./half_adder.png)
