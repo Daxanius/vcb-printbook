@@ -1,4 +1,4 @@
-# Equal To Zero (EQT) [⮌](../README.md)
+# Equal To Zero (EQT) [⮌](..)
 A simple arithmetic circuit that is true if both inputs are equal to zero. Note this blueprint is for
 demonstration purposes only and can easily be replaced by a single NOR gate.
 

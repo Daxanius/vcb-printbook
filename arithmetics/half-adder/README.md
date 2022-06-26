@@ -1,4 +1,4 @@
-# Half Adder [⮌](../README.md)
+# Half Adder [⮌](..)
 A simple arithmetic circuit that adds two inputs together and provides the result in binary notation
 
 ## Information
