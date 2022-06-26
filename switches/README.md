@@ -3,4 +3,4 @@ Switches are what they state to be, switches. They can either switch between inp
 
 ## Content
 
-1. [Selector](./selector/README.md)
+1. [Selector](./selector/)

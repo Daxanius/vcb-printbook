@@ -4,6 +4,6 @@ In logic circuits these arithmetic operations are performed on binary numbers.
 
 ## Content
 
-1. [Half Adder](./half-adder/README.md)
-2. [Full Adder](./full-adder/README.md)
-3. [EQT Zero](equal-to-zero/README.md)
+1. [Half Adder](./half-adder/)
+2. [Full Adder](./full-adder/)
+3. [EQT Zero](equal-to-zero/)
