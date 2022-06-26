@@ -1,4 +1,4 @@
-# Full Adder [⮌](../README.md)
+# Full Adder [⮌](..)
 An arithmetic circuit that adds three inputs together and provides the result in binary notation. Can count
 up to 3 in binary.
 
