@@ -1,4 +1,4 @@
-# Switching [⮌](../README.md)
+# Switches [⮌](../README.md)
 Switches are what they state to be, switches. They can either switch between inputs, or outputs.
 
 ## Content
