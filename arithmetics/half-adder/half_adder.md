@@ -5,18 +5,18 @@ A simple arithmetic circuit that adds two inputs together and provides the resul
 
 #### Boolean expression
 ```
-H = A∧B
-I = ¬(A∧B)∧(A∨B)
+Sum = ¬(A∧B)∧(A∨B)
+Carry = A∧B
 ```
 
 #### Truth table
 
-| A | B |   | H | I |
-|:---:|:---:|:---:|:---:|:---:|
-| 0 | 0 |   | 0 | 0 |
-| 0 | 1 |   | 0 | 1 |
-| 1 | 0 |   | 0 | 1 |
-| 1 | 1 |   | 1 | 0 |
+| A | B |   | Sum | Carry |
+|---|---|---|-----|-------|
+| 0 | 0 |   | 0   | 0     |
+| 0 | 1 |   | 1   | 0     |
+| 1 | 0 |   | 1   | 0     |
+| 1 | 1 |   | 0   | 1     |
 
 ## Blueprint
 
