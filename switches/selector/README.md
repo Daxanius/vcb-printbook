@@ -1,4 +1,4 @@
-# Selector
+# Selector [⮌](../README.md)
 A simple switch that selects either one of two inputs as output based on a third input. Switching
 between inputs.
 
